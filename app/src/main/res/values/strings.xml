@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Draw_a_point_in_SurfaceView</string>
+    <string name="quit">QUIT</string>
+    <string name="destroy">DESTROY</string>
+    <string name="create">Create</string>
+    <string name="horizontal_line">Horizontal Line</string>
+</resources>
